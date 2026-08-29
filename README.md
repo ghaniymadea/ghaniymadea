@@ -1,50 +1,64 @@
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=230&section=header&text=GHANIY%20MADEA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20•%20Kotlin%20•%20REST%20API&descAlignY=55&descSize=16&fontFamily=Poppins" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=ghaniymadea&label=Profile%20Views&color=3DDC84&style=flat-square" alt="profile views"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+clean+Android+experiences+with+Kotlin;Connecting+apps+to+the+world+via+REST+API;Leading+teams%2C+forums+%26+communities;Speaking+up%2C+stepping+forward+%F0%9F%8E%A4;Chasing+trails%2C+loving+nature+%F0%9F%8C%BF" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Kotlin-0F2027?style=flat-square&logo=kotlin&logoColor=00C9A7"/>
+<img src="https://img.shields.io/badge/Android-0F2027?style=flat-square&logo=android&logoColor=00C9A7"/>
+<img src="https://img.shields.io/badge/REST_API-0F2027?style=flat-square&logo=fastapi&logoColor=00C9A7"/>
+<img src="https://img.shields.io/badge/Git_&_GitHub-0F2027?style=flat-square&logo=github&logoColor=00C9A7"/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=ghaniymadea&label=Profile+Views&color=00C9A7&style=flat-square"/>
 
 </div>
 
 <br/>
 
-## 👨‍💻 Tentang Saya
+<h3 align="center">✧ Tentang Saya ✧</h3>
 
-> Seorang **Android Developer** yang berfokus pada pengembangan aplikasi mobile dengan **Kotlin** dan integrasi **REST API**. Terbiasa memimpin tim, forum, maupun organisasi, serta senang berbicara di depan umum (*public speaking*). Di luar dunia teknologi, saya adalah pecinta alam dan aktif berolahraga.
+<table align="center" width="88%">
+<tr><td>
+
+Seorang **Android Developer** yang membangun aplikasi mobile menggunakan **Kotlin** dengan integrasi **REST API** yang rapi dan efisien. Terbiasa berada di garis depan — memimpin tim, forum, maupun organisasi, dan nyaman berbicara di depan umum. Ketika jauh dari layar, saya menemukan ketenangan di alam terbuka dan menjaga tubuh tetap aktif lewat olahraga.
+
+</td></tr>
+</table>
 
 <br/>
 
-## 🛠️ Tech Stack
+<h3 align="center">✧ Tech Stack ✧</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,github,postman,firebase,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,github,postman,firebase,figma&theme=dark&perline=8"/>
 </div>
 
 <br/>
 
-<table width="100%">
+<table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Keahlian Teknis
-- **Bahasa Pemrograman:** Kotlin
-- **Pengembangan:** Android Native Development
-- **Integrasi:** REST API
-- **Tools:** Android Studio, Git & GitHub, Postman
+<h3 align="center">💼 Keahlian Teknis</h3>
+
+&nbsp;&nbsp;▹ Kotlin — bahasa utama pengembangan
+&nbsp;&nbsp;▹ Android Native Development
+&nbsp;&nbsp;▹ REST API Integration
+&nbsp;&nbsp;▹ Android Studio · Git · Postman
 
 </td>
 <td width="50%" valign="top">
 
-### 🌟 Soft Skills
-- 🧭 Kepemimpinan (Leadership)
-- 🎤 Public Speaking
-- 🤝 Kerja Tim & Komunikasi
-- 🎯 Manajemen Proyek & Problem Solving
+<h3 align="center">🌟 Soft Skills</h3>
+
+&nbsp;&nbsp;▹ Kepemimpinan (Leadership)
+&nbsp;&nbsp;▹ Public Speaking
+&nbsp;&nbsp;▹ Kerja Tim & Komunikasi
+&nbsp;&nbsp;▹ Manajemen Proyek
 
 </td>
 </tr>
@@ -52,27 +66,45 @@
 
 <br/>
 
-## 🏃‍♂️ Minat & Hobi
+<h3 align="center">✧ Di Luar Kode ✧</h3>
 
 <div align="center">
 
-⚽ **Olahraga**  &nbsp;•&nbsp;  🌿 **Pecinta Alam**  &nbsp;•&nbsp;  🏕️ **Kegiatan Outdoor**
-
-</div>
-
-
-## 📫 Hubungi Saya
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agaghaniymadea@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aga-ghaniy-madea-5751ba432/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghaniymadea___/)
+&nbsp;⚽ &nbsp;**Olahraga** &nbsp;&nbsp;|&nbsp;&nbsp; 🌿 &nbsp;**Pecinta Alam** &nbsp;&nbsp;|&nbsp;&nbsp; 🏕️ &nbsp;**Kegiatan Outdoor**
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=100&section=footer" width="100%"/>
+<h3 align="center">✧ GitHub Stats ✧</h3>
 
-<p align="center"><i>"Membangun aplikasi, memimpin dengan hati, mencintai alam sepenuhnya."</i></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ghaniymadea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaniymadea&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaniymadea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=c9d1d9" height="165"/>
+</div>
+
+<br/>
+
+<h3 align="center">✧ Let's Connect ✧</h3>
+
+<div align="center">
+
+<a href="mailto:agaghaniymadea@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F2027?style=flat-square&logo=gmail&logoColor=00C9A7"/></a>
+<a href="https://www.linkedin.com/in/aga-ghaniy-madea-5751ba432/"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=flat-square&logo=linkedin&logoColor=00C9A7"/></a>
+<a href="https://www.instagram.com/ghaniymadea___/"><img src="https://img.shields.io/badge/Instagram-0F2027?style=flat-square&logo=instagram&logoColor=00C9A7"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<i>"Membangun aplikasi, memimpin dengan hati, mencintai alam sepenuhnya."</i>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
