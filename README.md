@@ -34,7 +34,7 @@ Seorang **Android Developer** yang membangun aplikasi mobile menggunakan **Kotli
 <h3 align="center">✧ Tech Stack ✧</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,github,postman,firebase,figma&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,postman,figma&theme=dark&perline=8"/>
 </div>
 
 <br/>
@@ -78,20 +78,6 @@ Seorang **Android Developer** yang membangun aplikasi mobile menggunakan **Kotli
 
 </div>
 
-<br/>
-
-<h3 align="center">✧ GitHub Stats ✧</h3>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ghaniymadea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaniymadea&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaniymadea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=c9d1d9" height="165"/>
-</div>
-
-<br/>
 
 <h3 align="center">✧ Let's Connect ✧</h3>
 
