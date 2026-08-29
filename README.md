@@ -60,15 +60,6 @@
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaniymadea&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
-
-<br/>
 
 ## 📫 Hubungi Saya
 
