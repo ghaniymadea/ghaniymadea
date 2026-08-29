@@ -34,31 +34,35 @@ Seorang **Android Developer** yang membangun aplikasi mobile menggunakan **Kotli
 <h3 align="center">✧ Tech Stack ✧</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,postman,figma&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,github,postman,firebase,figma&theme=dark&perline=8"/>
 </div>
 
 <br/>
 
-<table align="center" width="90%">
+<table align="center" width="92%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">💼 Keahlian Teknis</h3>
+<h3>💼 Keahlian Teknis</h3>
 
-&nbsp;&nbsp;▹ Kotlin — bahasa utama pengembangan
-&nbsp;&nbsp;▹ Android Native Development
-&nbsp;&nbsp;▹ REST API Integration
-&nbsp;&nbsp;▹ Android Studio · Git · Postman
+<img src="https://img.shields.io/badge/Kotlin-0F2027?style=flat-square&logo=kotlin&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Android_Native_Dev-0F2027?style=flat-square&logo=android&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/REST_API_Integration-0F2027?style=flat-square&logo=fastapi&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Android_Studio-0F2027?style=flat-square&logo=androidstudio&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Git_%26_GitHub-0F2027?style=flat-square&logo=git&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Postman-0F2027?style=flat-square&logo=postman&logoColor=00C9A7"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🌟 Soft Skills</h3>
+<h3>🌟 Soft Skills</h3>
 
-&nbsp;&nbsp;▹ Kepemimpinan (Leadership)
-&nbsp;&nbsp;▹ Public Speaking
-&nbsp;&nbsp;▹ Kerja Tim & Komunikasi
-&nbsp;&nbsp;▹ Manajemen Proyek
+<img src="https://img.shields.io/badge/Leadership-0F2027?style=flat-square&logo=target&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Public_Speaking-0F2027?style=flat-square&logo=googlemeet&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Teamwork-0F2027?style=flat-square&logo=peoplecert&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Communication-0F2027?style=flat-square&logo=wechat&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Project_Management-0F2027?style=flat-square&logo=trello&logoColor=00C9A7"/><br/>
+<img src="https://img.shields.io/badge/Problem_Solving-0F2027?style=flat-square&logo=codesignal&logoColor=00C9A7"/>
 
 </td>
 </tr>
@@ -73,6 +77,21 @@ Seorang **Android Developer** yang membangun aplikasi mobile menggunakan **Kotli
 &nbsp;⚽ &nbsp;**Olahraga** &nbsp;&nbsp;|&nbsp;&nbsp; 🌿 &nbsp;**Pecinta Alam** &nbsp;&nbsp;|&nbsp;&nbsp; 🏕️ &nbsp;**Kegiatan Outdoor**
 
 </div>
+
+<br/>
+
+<h3 align="center">✧ GitHub Stats ✧</h3>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ghaniymadea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaniymadea&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaniymadea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=c9d1d9" height="165"/>
+</div>
+
+<br/>
 
 <h3 align="center">✧ Let's Connect ✧</h3>
 
