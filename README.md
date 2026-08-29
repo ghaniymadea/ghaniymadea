@@ -34,7 +34,7 @@ Seorang **Android Developer** yang membangun aplikasi mobile menggunakan **Kotli
 <h3 align="center">✧ Tech Stack ✧</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,github,postman,firebase,figma&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,postman,figma&theme=dark&perline=8"/>
 </div>
 
 <br/>
